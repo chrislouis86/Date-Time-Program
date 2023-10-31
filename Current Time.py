@@ -1,5 +1,5 @@
 
-# Example of the current time of a timezone example is (London GMT)
+# Example of the current timezone. 
 
 from datetime import *
 import pytz # Using pytz module 
